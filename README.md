@@ -25,9 +25,9 @@ Windows IIS Log File Text Serch
 - /Sample/find_20190304.txt
 - /Sample/IISLogFind.jpg
 
-* 5. IISLogFind Class :
+## 5. IISLogFind Class :
 ```
-calss IISLogFind
+class IISLogFind
 		Event Halller
 		GetFind
 		GetFindMulti
