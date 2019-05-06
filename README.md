@@ -18,7 +18,7 @@ Windows IIS Log File Text Serch
 
 ## 3. IISLogFind 사용 정보
 * IIS Log : C:\inetpub\logs\LogFiles\W3SVC2
-* IISLogFind.exe 실행 > IIS Log 파일 지정 > 검색 데이터 지정 후 검색 실행 > LogView 확인
+* IISLogFind.exe 실행 > IIS Log 파일 지정 > 검색 데이터 지정 후 검색 실행. > LogView 확인
 ![IISLogFind](https://user-images.githubusercontent.com/49525161/56466030-bbee7a00-6445-11e9-870c-f133b6a4ad6c.jpg)
 
 ## 4. IISLogFind Sample
